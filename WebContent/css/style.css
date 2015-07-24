@@ -1,0 +1,28 @@
+.page-content {
+	padding-bottom: 60px;
+}
+
+.make-relative {
+	position: relative;
+}
+
+.box-reservation {
+	position: absolute;
+	left: 0;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	padding-top: 40px;
+}
+
+.box-reservation .panel {
+	width: 350px;
+}
+
+.app-bar .logo img {
+	margin-right: 1em;
+}
+
+.panel.collapsible > .heading > .title {
+	margin-right: 2.625rem;
+}
